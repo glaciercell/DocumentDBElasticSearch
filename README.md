@@ -1,1 +1,1 @@
-# DocumentDBElasticSearch
+# DocumentDBElasticity
